@@ -1,6 +1,6 @@
 # TD-based analysis on ADRs
 
-This repo is for the paper "An analysis of adverse drug reactions identified in nursing notes using reinforcement learning." This is only for review or providing details to readers.
+This repo is for the paper "An analysis of adverse drug reactions identified in nursing notes using reinforcement learning." This is only for reviewers or providing details to readers.
 
 The contents are as follows:
 * Additional details for the paper are in addpendix.md
